@@ -1,4 +1,4 @@
-# Connect_4_GamePlaying_AI
+# Connect 4 Game Playing AI
 A game playing AI for the Connect 4 game.
 
 - Implements a *recursive function* to look at the *possibilities tree*
